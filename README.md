@@ -21,7 +21,7 @@ This project demonstrates how to build a minimal yet flexible chatbot system wit
 Clone the repository and navigate to the project directory:
 
 ```bash
-git clone https://github.com/devvrat-singh-gth/Chatbot_CstmPrompt.git
+git clone https://github.com/HK1106/python-project
 cd Chatbot_CstmPrompt
 ```
 
